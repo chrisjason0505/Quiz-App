@@ -90,5 +90,5 @@ Contributions are welcome. To propose changes:
 ---
 
 ## Acknowledgments
-This project was developed under the Developers Club initiative and serves as a comprehensive demonstration of frontend development proficiency. It stands as a portfolio project intended to showcase technical capability to prospective employers, including leading tech giants such as Google.
+This project was developed under the Developers Club initiative and serves as a comprehensive demonstration of frontend development proficiency. It stands as a portfolio project intended to showcase technical capability to prospective employers.
 
