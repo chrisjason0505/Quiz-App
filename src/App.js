@@ -334,8 +334,8 @@ answerOptions: [
       .sort((a, b) => b.score - a.score)
       .slice(0, 10);
 
-    setLeaderboard(updatedLeaderboard);
-    localStorage.setItem("quizLeaderboard", JSON.stringify(updatedLeaderboard));
+    //setLeaderboard(updatedLeaderboard);
+    //localStorage.setItem("quizLeaderboard", JSON.stringify(updatedLeaderboard));
   };
 
   // Handle answer click
