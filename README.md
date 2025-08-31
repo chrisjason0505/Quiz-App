@@ -7,11 +7,12 @@
 *Roll No: CS23B2007*  
 
 ---
+[App](https://cj-sudy-quizapp.netlify.app)
 
 ## Project Overview
 The Quiz App is a cutting-edge, interactive web application designed to deliver an engaging and immersive quiz experience. This project was meticulously developed using [Create React App](https://github.com/facebook/create-react-app), reflecting a deep understanding of frontend technologies and UI/UX principles. 
 
-The [app](cj-sudy-quizapp.netlify.app) boasts key features such as a real-time leaderboard, countdown timer, and an expansive selection of quizzes, making it a compelling demonstration of technical expertise and problem-solving skills. 
+The app boasts key features such as a real-time leaderboard, countdown timer, and an expansive selection of quizzes, making it a compelling demonstration of technical expertise and problem-solving skills. 
 
 ---
 
@@ -45,7 +46,7 @@ To launch the application in development mode, execute:
 npm start
 ```
 Access the app via [http://localhost:3000](http://localhost:3000). Changes to the source code will auto-refresh the browser.
-We have hosted it via [Streamlit](cj-sudy-quizapp.netlify.app). You can directly use it here
+We have hosted it via Streamlit, the link is given above @line10. You can directly use it there.
 
 ---
 
